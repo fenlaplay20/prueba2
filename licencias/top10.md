@@ -33,3 +33,10 @@
 |Copyleft débil: solo requiere que los archivos modificados se liberen, no todo el código del proyecto.|
 |Ideal para proyectos mixtos (parte libre, parte privada).|
 |Compatible con uso empresarial.|
+
+|7. Licencia de Software Comercial|
+|---------------------------------|
+|Derechos reservados al autor o empresa.|
+|El usuario obtiene un derecho limitado de uso.|
+|Prohíbe la modificación, copia o redistribución sin permiso.|
+|Ejemplo: Microsoft Windows, Adobe Photoshop.|
