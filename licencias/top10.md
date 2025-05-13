@@ -40,3 +40,21 @@
 |El usuario obtiene un derecho limitado de uso.|
 |Prohíbe la modificación, copia o redistribución sin permiso.|
 |Ejemplo: Microsoft Windows, Adobe Photoshop.|
+
+|8. Licencia de Usuario Final (EULA)|
+|-----------------------------------|
+|Contrato legal entre el proveedor y el usuario final.|
+|Define límites de uso, como el número de dispositivos, tiempo o funciones.|
+|Puede incluir restricciones geográficas o funcionales.|
+
+|9. Licencia Freemium|
+|--------------------|
+|Parte del software es gratuita, con funciones limitadas.|
+|Las funciones completas requieren pago (upgrades).|
+|Muy usada en apps móviles y servicios SaaS.|
+
+|10. Licencia Shareware|
+|----------------------|
+|Permite probar el software por un tiempo limitado o con funciones básicas.|
+|Luego, requiere pago para desbloquear todas las funcionalidades.|
+|Popular antes del auge del modelo freemium.|
