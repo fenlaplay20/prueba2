@@ -4,6 +4,8 @@
 Soy un chabal de papua de buena ginea que busca empleo en españa ya que me he mudado recientemente aqui.
 Soy serio y flexible y me gusta sociabilizar con mis compañeros
 
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Finmofotos.es%2Flistas%2F8-tips-de-como-hacer-buenas-fotos-a-personas%2F&psig=AOvVaw1OevrHr7TN1kMamx9UXiE5&ust=1747226182062000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKj25vG6oI0DFQAAAAAdAAAAABAL" alt="Foto de Óscar hernandez" style="float: right; width: 150px; height: auto; margin-left: 20px;"/>
+
 ## EXPERIENCIA LABORAL
 
 **Ensigna | Comercial**
