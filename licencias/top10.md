@@ -22,3 +22,8 @@
 |Incluye una cláusula de concesión de patentes, importante en entornos empresariales.|
 |Permite uso comercial, modificación y redistribución.|
 
+|5. BSD Licenses |
+|----------------|
+|Muy similares a la MIT.|
+|Licencia simple y permisiva.|
+|Agrega una cláusula que impide usar el nombre del proyecto para promocionar derivados sin permiso.|
