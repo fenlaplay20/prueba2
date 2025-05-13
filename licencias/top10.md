@@ -58,3 +58,14 @@
 |Permite probar el software por un tiempo limitado o con funciones básicas.|
 |Luego, requiere pago para desbloquear todas las funcionalidades.|
 |Popular antes del auge del modelo freemium.|
+
+1. MIT License
+2. GNU General Public License (GPL) v3
+3. GNU Lesser General Public License (LGPL)
+4. Apache License 2.0
+5. BSD Licenses
+6. Mozilla Public License (MPL) 2.0
+7. Licencia de Software Comercial
+8. Licencia de Usuario Final (EULA)
+9. Licencia Freemium
+10. Licencia Shareware
