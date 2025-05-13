@@ -27,3 +27,9 @@
 |Muy similares a la MIT.|
 |Licencia simple y permisiva.|
 |Agrega una cláusula que impide usar el nombre del proyecto para promocionar derivados sin permiso.|
+
+|6. Mozilla Public License (MPL) 2.0|
+|-----------------------------------|
+|Copyleft débil: solo requiere que los archivos modificados se liberen, no todo el código del proyecto.|
+|Ideal para proyectos mixtos (parte libre, parte privada).|
+|Compatible con uso empresarial.|
